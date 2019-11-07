@@ -19,7 +19,7 @@ h2 {
   color: #6A71E1;
 }
 a {
-  color: #6A71E1;
+  color: white;
   text-decoration: none;
 }
 a:hover {
@@ -46,15 +46,15 @@ a:hover {
   margin-bottom: 40px;
 }
 .btn-blue {
-  color: white;
+  color: #7795f8;
   background: #ffffff;
   opacity: 0.2;
   box-shadow: 0 4px 6px rgba(50,50,93,.11);
   border-radius: 4px;
-  padding: 15px 20px;
+  padding: 0px 0px;
 }
 .btn-blue:hover {
-  background: #7795f8;
+  background: white;
   color: white;
 }
 

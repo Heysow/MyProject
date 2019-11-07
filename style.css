@@ -1,0 +1,99 @@
+body {
+  margin: 0px;
+  background: #C0C0C0;
+  color: rgb(20, 20, 20);
+  font-family: Helvetica, sans-serif;
+	font-size: 18px;
+  font-weight: lighter;
+}
+h1, h2, h3 {
+  font-family: 'Anton', sans-serif;
+  font-weight: bold;
+
+}
+h1 {
+	font-size: 60px;
+}
+h2 {
+  font-size: 40px;
+  color: #6A71E1;
+}
+a {
+  color: #6A71E1;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+
+.banner{
+  text-align: center;
+  color: white;
+  padding: 150px 0px;
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url("https://picsum.photos/seed/picsum/200/300");
+  background-size: cover;
+  background-position: center;
+}
+.banner h1 {
+  font-size: 100px;
+
+}
+.banner p {
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+  font-style: italic;
+  margin-bottom: 40px;
+}
+.btn-blue {
+  color: white;
+  background: #ffffff;
+  opacity: 0.2;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  border-radius: 4px;
+  padding: 15px 20px;
+}
+.btn-blue:hover {
+  background: #7795f8;
+  color: white;
+}
+
+.card-white {
+  background-color: white;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 0 4px 6px #7f7fff;
+  padding: 16px 0px;
+  margin: 16px 10px;
+}
+.card-white img {
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: black;
+  padding: 24px;
+  color: white;
+  text-align: center;
+}
+.footer a {
+  color: white;
+  font-size: 15px;
+  
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline li {
+  display: inline;
+  padding: 0px 8px;
+}
+
+
+  
+ 
+
+
+
